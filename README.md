@@ -99,4 +99,11 @@ Then I conducted least squares method to estimate the normalized sensitivity :
   <img src="https://github.com/baa151/project-2/assets/123330888/b7601dc9-12a8-4a6e-a9b2-bdd163a14cb9" height="450"> <br>
 </p>
 
+Our fitted equn is y =  -0.32597233102974327 taui +  0.21775488574842705 taur
+
 I didn’t get a linear line and $\tau_I$ shows that it affects the model more. And that also matched what I found from the local sensitivity analysis.
+
+From the results I provided, $\tau_I$ has a greater impact on the model, for some reasons :
+- Infection time directly influences the duration of active virus transmission.
+- Longer infection time allows for extended transmission, impacting more individuals.
+- Infection time significantly influences the overall spread potential within the population, while variations in recovery time may not have as pronounced an effect on the total number of infections.
