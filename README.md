@@ -31,3 +31,10 @@ I tried to get a similar fit to the papers fit but the problem is, they used a r
 <p align="center">
   <img src="https://github.com/baa151/project-2/assets/123330888/5d8edf39-bdbb-4753-9378-3baebe43a2f9" width="450"><br>
 </p>
+
+My optimized fit compared to the papers fit is shown below : 
+
+<p align="center">
+  <img src="https://github.com/baa151/project-2/assets/123330888/8ada3f91-dde2-47ac-8b35-2a842e548c2f" width="450"><br>
+</p>
+
