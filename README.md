@@ -38,3 +38,7 @@ My optimized fit compared to the papers fit is shown below :
   <img src="https://github.com/baa151/project-2/assets/123330888/ca794d2a-c156-402a-a5b8-c1de7cd80a9f" height="450"> <br>
 </p>
 
+With Paper’s Parameters:
+𝜏_𝑅  = 4.9  
+𝜏_𝐼 = 14
+
