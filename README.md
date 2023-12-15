@@ -93,9 +93,10 @@ Also, the perturbation were uniformly sampled as is proven below :
   <img src="https://github.com/baa151/project-2/assets/123330888/fd7b2456-0e0a-4650-bb3b-db071799ab5c" height="450"> <br>
 </p>
 
-Then I conducted least squares method to the normalized sensitivity :
+Then I conducted least squares method to estimate the normalized sensitivity :
 
 <p align="center">
   <img src="https://github.com/baa151/project-2/assets/123330888/b7601dc9-12a8-4a6e-a9b2-bdd163a14cb9" height="450"> <br>
 </p>
 
+I didn’t get a linear line and $\tau_I$ shows that it affects the model more. And that also matched what I found from the local sensitivity analysis.
