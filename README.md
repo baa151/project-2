@@ -50,4 +50,13 @@ $\tau_r$  = 5.592
 
 $\tau_I$ = 17.091
 
-Comparing both results, it can be seen that both can fit the data for a certain extent but 
+Comparing both results, it can be seen that both can fit the data for a certain extent but their fit looks like it is shifted to the left with time ranges of [100,160].
+
+# Bifurcation Analysis
+
+The purpose of applying bifurcation analysis is to gain deep insights into the qualitative changes and transitions that occur in the dynamics of a system as a parameter is varied. I chose this parameter because I was curious on how the period of time for a person to be contagious would affect the dynamics of the model.
+
+<p align="center">
+  <img src="https://github.com/baa151/project-2/assets/123330888/3a656b16-08e7-4db0-a6ed-46798a48db80" height="450"> <br>
+</p>
+
