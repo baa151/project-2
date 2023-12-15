@@ -68,7 +68,7 @@ I chose the parameter $\tau_R$ to vary within the range of [1, 14] because, base
 
 Moving on to Sensitivty analysis, to identify the parameters to which the output is most sensitive !! 
 Starting with local sensitivity analysis: 
-I tried to perturb my parameters by 5% to see how can this affects my analysis
+I tried to perturb my parameters by 5% to see how can this affects my model :
 
 <p align="center">
   <img src="https://github.com/baa151/project-2/assets/123330888/a7d90c52-2b48-4f43-8447-07bd8f16f0a3" height="450"> <br>
@@ -76,4 +76,16 @@ I tried to perturb my parameters by 5% to see how can this affects my analysis
 
 <p align="center">
   <img src="https://github.com/baa151/project-2/assets/123330888/6d1296e2-9a92-401e-b922-1e1efc065075" height="450"> <br>
+</p>
+
+It can be seen that $\tau_I$ affects the system more.
+
+Also, I double-checked these results with applying Global sensitivty analysis by applying perturbation the parameters by ±20% :
+
+<p align="center">
+  <img src="https://github.com/baa151/project-2/assets/123330888/ef01f99d-c9bd-458f-9fe9-c3ad41e95c97" height="450"> <br>
+</p>
+
+<p align="center">
+  <img src="https://github.com/baa151/project-2/assets/123330888/fd7b2456-0e0a-4650-bb3b-db071799ab5c" height="450"> <br>
 </p>
