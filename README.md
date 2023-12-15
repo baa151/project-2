@@ -7,7 +7,7 @@ This work aims for an improvement ( if possible ) on the above paper. This paper
 
 
 <p align="center">
-  <img src="(https://github.com/baa151/project-2/assets/123330888/1f234564-925d-4776-8a84-8ea0f7c22913)" width="350"><br>
+  <img src="https://github.com/baa151/project-2/assets/123330888/1f234564-925d-4776-8a84-8ea0f7c22913" width="350"><br>
 </p>
 
 
