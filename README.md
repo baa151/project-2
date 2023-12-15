@@ -101,7 +101,7 @@ Then I conducted least squares method to estimate the normalized sensitivity :
 
 Our fitted equn is y =  -0.32597233102974327 taui +  0.21775488574842705 taur
 
-I didn’t get a linear line and $\tau_I$ shows that it affects the model more. And that also matched what I found from the local sensitivity analysis.
+I didn’t get a linear line but maybe using a linear model with interaction would give a better foundingd. The fitted equation showed that $\tau_I$ affects the model more. which also matched what I found from the local sensitivity analysis.
 
 From the results I provided, $\tau_I$ has a greater impact on the model, for some reasons :
 - Infection time directly influences the duration of active virus transmission.
