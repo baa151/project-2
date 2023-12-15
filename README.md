@@ -75,7 +75,7 @@ I tried to perturb my parameters by 5% to see how can this affects my model :
 </p>
 
 <p align="center">
-  <img src="https://github.com/baa151/project-2/assets/123330888/6d1296e2-9a92-401e-b922-1e1efc065075" height="450"> <br>
+  <img src="https://github.com/baa151/project-2/assets/123330888/089a5d47-1bd6-4df9-9d61-b8260cf84c7f" height="450"> <br>
 </p>
 
 It can be seen that $\tau_I$ affects the system more.
