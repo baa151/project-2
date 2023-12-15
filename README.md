@@ -56,11 +56,24 @@ Comparing both results, it can be seen that both can fit the data for a certain 
 
 # Bifurcation Analysis
 
-The purpose of applying bifurcation analysis is to gain deep insights into the qualitative changes and transitions that occur in the dynamics of a system as a parameter is varied. I chose this parameter because I was curious on how the period of time for a person to be contagious would affect the dynamics of the model.
+The purpose of applying bifurcation analysis is to gain deep insights into the qualitative changes and transitions that occur in the dynamics of a system as a parameter is varied. I chose this parameter because I was curious about how the period of time a person remains contagious would affect the model's dynamics.
 
 <p align="center">
   <img src="https://github.com/baa151/project-2/assets/123330888/3a656b16-08e7-4db0-a6ed-46798a48db80" height="450"> <br>
 </p>
 
-The reason I chose $\tau_R$ from [1,14] is because I read from a different paper that a person can still transmit the infection for more than 10 days.
-As the infection time is small, lets say 2 days, this individual is able to transmit the virus for two days only, the number of recovered cases slightly decreases. And as that time increases, which means that this person is contagious for a longer period of time, he can transmit the infection for more people.
+I chose the parameter $\tau_R$ to vary within the range of [1, 14] because, based on information from another study, individuals can potentially transmit the infection for more than 10 days. When the infection time is short, let's say 2 days, the individual can transmit the virus for a limited period, resulting in a slight decrease in the number of recovered cases. Conversely, as the infection time increases, signifying a longer contagious period, the individual has the potential to transmit the infection to a larger number of people.
+
+# Sensitivty Analysis
+
+Moving on to Sensitivty analysis, to identify the parameters to which the output is most sensitive !! 
+Starting with local sensitivity analysis: 
+I tried to perturb my parameters by 5% to see how can this affects my analysis
+
+<p align="center">
+  <img src="https://github.com/baa151/project-2/assets/123330888/a7d90c52-2b48-4f43-8447-07bd8f16f0a3" height="450"> <br>
+</p>
+
+<p align="center">
+  <img src="https://github.com/baa151/project-2/assets/123330888/6d1296e2-9a92-401e-b922-1e1efc065075" height="450"> <br>
+</p>
