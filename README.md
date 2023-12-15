@@ -17,3 +17,9 @@ T : Total number of cases
 $\tau_I$ : (Infection time) : Average duration it takes for an infected individual to be able to transmit the infection to a susceptible individual.
 
 $\tau_R$ : (Recovery time) :  Average duration an individual remains infected before recovering. 
+
+with initial conditions as shown below : 
+
+<p align="center">
+  <img src="https://github.com/baa151/project-2/assets/123330888/1044d81d-2e1c-4f6a-82b5-d18289797700" width="350"><br>
+</p>
