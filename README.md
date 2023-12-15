@@ -71,11 +71,11 @@ Starting with local sensitivity analysis:
 I tried to perturb my parameters by 5% to see how can this affects my model :
 
 <p align="center">
-  <img src="https://github.com/baa151/project-2/assets/123330888/a7d90c52-2b48-4f43-8447-07bd8f16f0a3" height="450"> <br>
+  <img src="https://github.com/baa151/project-2/assets/123330888/089a5d47-1bd6-4df9-9d61-b8260cf84c7f" height="450"> <br>
 </p>
 
 <p align="center">
-  <img src="https://github.com/baa151/project-2/assets/123330888/089a5d47-1bd6-4df9-9d61-b8260cf84c7f" height="450"> <br>
+  <img src="https://github.com/baa151/project-2/assets/123330888/8be9aa01-5920-4a62-849c-0a84fbc458c3)" height="450"> <br>
 </p>
 
 It can be seen that $\tau_I$ affects the system more.
