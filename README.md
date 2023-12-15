@@ -7,7 +7,7 @@ This work aims for an improvement ( if possible ) on the above paper. This paper
 
 The model they used was the extended SIR model which represents the population into three categouries : Susceptible, Infected and Recovered.
 <p align="center">
-  <img src="https://github.com/baa151/project-2/assets/123330888/1f234564-925d-4776-8a84-8ea0f7c22913" width="350"><br>
+  <img src="https://github.com/baa151/project-2/assets/123330888/1f234564-925d-4776-8a84-8ea0f7c22913" width="300"><br>
 </p>
 
 n : Daily new cases
@@ -21,5 +21,5 @@ $\tau_R$ : (Recovery time) :  Average duration an individual remains infected be
 with initial conditions as shown below : 
 
 <p align="center">
-  <img src="https://github.com/baa151/project-2/assets/123330888/1044d81d-2e1c-4f6a-82b5-d18289797700" width="350"><br>
+  <img src="https://github.com/baa151/project-2/assets/123330888/1044d81d-2e1c-4f6a-82b5-d18289797700" width="450"><br>
 </p>
