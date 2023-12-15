@@ -24,7 +24,9 @@ with initial conditions as shown below :
   <img src="https://github.com/baa151/project-2/assets/123330888/1044d81d-2e1c-4f6a-82b5-d18289797700" width="450"><br>
 </p>
 
+
 I tried to get a similar fit to the papers fit but the problem is, they used a range of numbers for their parameters and not a specific value. The papers fit is shown below : 
+
 
 <p align="center">
   <img src="https://github.com/baa151/project-2/assets/123330888/5d8edf39-bdbb-4753-9378-3baebe43a2f9" width="450"><br>
