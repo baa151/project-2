@@ -11,6 +11,9 @@ The model they used was the extended SIR model which represents the population i
 </p>
 
 n : Daily new cases
+
 T : Total number of cases
+
 $\tau_I$ : (Infection time) : Average duration it takes for an infected individual to be able to transmit the infection to a susceptible individual.
+
 $\tau_R$ : (Recovery time) :  Average duration an individual remains infected before recovering. 
