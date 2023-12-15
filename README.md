@@ -35,10 +35,19 @@ I tried to get a similar fit to the papers fit but the problem is, they used a r
 My optimized fit compared to the papers fit is shown below : 
 
 <p align="center">
-  <img src="https://github.com/baa151/project-2/assets/123330888/ca794d2a-c156-402a-a5b8-c1de7cd80a9f" height="450"> <br>
+  <img src="https://github.com/baa151/project-2/assets/123330888/851e3b33-042c-4757-addb-6344279b1b87" height="450"> <br>
 </p>
 
 With assuming that the paper's parameters:
+
 $\tau_r$  = 4.9  
+
 $\tau_I$ = 14
 
+My optimized parameters are :
+
+$\tau_r$  = 5.592 
+
+$\tau_I$ = 17.091
+
+Comparing both results, it can be seen that both can fit the data for a certain extent but 
