@@ -39,6 +39,6 @@ My optimized fit compared to the papers fit is shown below :
 </p>
 
 With Paper’s Parameters:
-𝜏_𝑅  = 4.9  
-𝜏_𝐼 = 14
+$𝜏_𝑅$  = 4.9  
+$𝜏_𝐼$ = 14
 
