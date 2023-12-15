@@ -86,6 +86,16 @@ Also, I double-checked these results with applying Global sensitivty analysis by
   <img src="https://github.com/baa151/project-2/assets/123330888/ef01f99d-c9bd-458f-9fe9-c3ad41e95c97" height="450"> <br>
 </p>
 
+
+Also, the perturbation were uniformly sampled as is proven below :
+
 <p align="center">
   <img src="https://github.com/baa151/project-2/assets/123330888/fd7b2456-0e0a-4650-bb3b-db071799ab5c" height="450"> <br>
 </p>
+
+Then I conducted least squares method to the normalized sensitivity :
+
+<p align="center">
+  <img src="https://github.com/baa151/project-2/assets/123330888/b7601dc9-12a8-4a6e-a9b2-bdd163a14cb9" height="450"> <br>
+</p>
+
