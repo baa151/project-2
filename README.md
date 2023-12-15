@@ -35,6 +35,6 @@ I tried to get a similar fit to the papers fit but the problem is, they used a r
 My optimized fit compared to the papers fit is shown below : 
 
 <p align="center">
-  <img src="https://github.com/baa151/project-2/raw/main/assets/123330888/8ada3f91-dde2-47ac-8b35-2a842e548c2f" width="350" height="500" alt="Description">
+  <img src="https://github.com/baa151/project-2/raw/main/assets/123330888/8ada3f91-dde2-47ac-8b35-2a842e548c2f" width="350" height="500"> <br>
 </p>
 
