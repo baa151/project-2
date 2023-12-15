@@ -5,7 +5,9 @@ Sebastião, P. J., Beira, M. J., Cordeiro, R., Kumar, A., Fernandes, J. C., Ferr
 
 This work aims for an improvement ( if possible ) on the above paper. This paper introduces an approach for fitting ordinary differential equation (ODE) models to experimental results. It addresses situations where traditional statistical estimators fall short, and analytical solutions are unavailable. The method involves solving ODEs numerically and fitting the results to experimental data, providing meaningful parameter sets. The paper showcases a user-friendly web-based ODE solver and fitter, demonstrating its application in analyzing a rigid pendulum's motion and the dynamics of a viral infection (our intreset). Overall, the paper presents a practical and accessible solution for researchers and students across diverse academic levels and fields.
 
-![values](https://github.com/baa151/project-2/assets/123330888/d00e987e-67e4-4898-aad9-4d55c930d5c6)
+<p align="center">
+  <img src="https://github.com/baa151/project-2/raw/main/assets/123330888/63ef3cd3-8e1e-4009-9065-ffd22e676bbe" alt="Equations">
+</p>
 
 
 
